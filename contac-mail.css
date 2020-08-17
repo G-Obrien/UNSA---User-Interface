@@ -1,0 +1,90 @@
+body{
+    margin: 0%;
+    padding: 2px;
+    width: 100%;
+
+}
+main{
+    background-color: rgba(230, 191, 139, 0.76);
+    padding: 4%;
+    text-align: center;
+}
+p{
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+form{
+    text-align: center;
+    border: 2px solid rgb(25, 101, 199);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+form .input1{
+    width: 40%;
+    height: 40px;
+    border: solid 1px, rgb(5, 64, 119);
+    border-radius: 15px;
+    padding-left: 10%;
+    color: navy;
+    font-size: larger;
+
+}
+textarea{
+    width: 40%;
+     color: navy;
+      font-size: larger;
+    border: solid 1px, rgb(5, 64, 119);
+    border-radius: 15px;
+    padding-left: 10%;
+}
+.sen{
+    background-color: rgb(25, 101, 199);
+    font-weight: 700;
+    color: rgb(253, 249, 249);
+    width: 180px;
+    text-align: center;
+    height: 40px;
+    font-size: 16px;
+    padding: 1%;
+}
+.tabo{
+    background-color: rgba(253, 249, 249, 0.829);
+    width: 95%;
+
+}
+.tabo tr .tab{
+    background-color: rgb(58, 151, 238);
+    color: rgb(239, 237, 245);
+    
+}
+.tabo tr td{
+color: rgb(22, 8, 2);
+text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 600;
+padding: 1%;
+width: 10%;
+border-right: saddlebrown 2px solid;
+border-top: saddlebrown 2px solid;
+
+}
+.formk{
+    text-align: center;
+    border: 2px solid rgb(25, 101, 199);
+    padding: 5%;
+    background: url(../IMG/pics/unsa-hme.png) no-repeat;
+    background-size: cover;
+    
+}
+h5{
+    background-color: rgba(243, 188, 139, 0.336);
+    color: rgb(44, 3, 10);
+    padding: 2%;
+    font-size: 27px;
+}
+button{
+    background-color: rgb(195, 238, 216);
+    color: rgb(247, 44, 8);
+    font-weight: 700;
+}

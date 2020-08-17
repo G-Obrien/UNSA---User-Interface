@@ -1,0 +1,36 @@
+body{
+  
+    position: relative;
+    padding: 2%;
+}
+body h2{
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    border: solid 2px blue;
+
+}
+.address{
+    width: 38%;
+    height: 0 auto;
+}
+.map{
+    width: 60%;
+}
+
+.address img{
+    width: 98%;
+    height: 0 auto;
+}
+.map img{
+    width: 98%;
+}
+.about p{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}

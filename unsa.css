@@ -1,0 +1,90 @@
+
+body{
+     background-color: rgb(69, 69, 160);
+     padding: 25%;
+     padding-top: 5%;
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+form{
+    font-family: Stonehenge;
+    color: blanchedalmond;
+    font-size: 80%;
+    line-height: 10px;
+    width: 0 auto;
+    border: 2px solid white;
+    padding: 2%;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.137)
+}
+input{
+    background-color: rgba(24, 5, 5, 0.801);
+    color: blanchedalmond;
+    width: 60%;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: 800;
+    padding-left: 5%;
+}
+.btn-lon{
+width: 60%;
+background-color: rgb(108, 203, 240);
+font-weight: 800;
+height: 30px;
+}
+.cancel-btn{
+width: 60%;
+font-weight: 800;
+background-color: rgb(211, 125, 13);
+height: 30px;
+color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color: rgb(243, 224, 56);
+    font-size: 20px;
+    font-weight: 800;
+}
+/* Eror and Successful sms;;;*/
+.era{
+    border: rgb(241, 41, 14) 2px solid;
+    border-radius: 8px;
+    padding: 5%;
+   
+    background-color: rgba(179, 243, 179, 0.726);
+    
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    height: 40px;
+    color: red;
+    line-height: 40px;
+}
+.suc{
+    border: rgb(20, 112, 40) 4px solid;
+    border-radius: 8px;
+    padding: 5%;
+   
+    background-color: rgba(239, 245, 239, 0.925);
+    
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    height: 40px;
+    color: rgb(7, 138, 7);
+    line-height: 30px;
+}
+.suc button{
+    background-color: red;
+    color: rgba(239, 245, 239, 0.925);
+    font-weight: 700;
+}
+.era button{
+    background-color: red;
+    color: rgba(239, 245, 239, 0.925);
+    font-weight: 700;
+}

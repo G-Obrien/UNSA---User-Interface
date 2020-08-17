@@ -1,0 +1,44 @@
+
+.empty-div{
+    float: right;
+    padding-left: 20%;
+    display: flex;
+}
+.empty-div input{
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding-left: 5%;
+    color: rgb(1, 14, 4);
+    width: 250px;
+    text-align: center;
+    height: 25px;
+    border-radius: 8px;
+}
+.empty-div button{
+    height: 24px;
+background-color: rgb(248, 21, 21);
+color: rgb(252, 252, 253);
+}
+li a img{
+    width: 25px;
+    height: 24px;
+    background-color: rgb(212, 86, 13);
+    border-radius: 50%;
+    padding: 2px;
+}
+ul li{
+display: none;
+list-style: none;
+}
+
+ol li:hover ul li{
+    display: block;
+    border-bottom: 1px dotted #fff;
+    background-color: rgba(19, 185, 163, 0.829);
+    
+}
+ol li:hover ul li:hover {
+background-color: rgb(255, 136, 57);
+
+}

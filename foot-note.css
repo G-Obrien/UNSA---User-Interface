@@ -1,0 +1,55 @@
+.main-foot{
+   background-color: rgb(5, 5, 134);
+ display: flex;
+ color: aliceblue;
+ width: 96%;
+ padding: 2%;
+}
+.bottom-foot{
+background-color:  blue;
+display: flex;
+color: aliceblue;
+}
+li{
+    list-style: none;
+     padding-bottom: 4px;
+}
+li a{
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 18px ;
+  
+}
+li a h6{ 
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+}
+.fst-box{
+ width: 20%;
+}
+.box-1{color: white;
+    padding: 2%;
+}
+.box-1 p{
+    color: white;
+}
+.box-1 {
+    color: white;
+    font-weight: 700;
+
+}
+.box-1 h1{
+    font-size: 45px;
+    font-family: 'Gill Sans MT', 'Calibri', 'sans-serif';
+}
+p a{
+    font-size: 25px;
+}
+.box-1 li a img {
+    width: 40px;
+    height: 40px;
+
+}
+.boxlinks {
+  display: flex;
+}
